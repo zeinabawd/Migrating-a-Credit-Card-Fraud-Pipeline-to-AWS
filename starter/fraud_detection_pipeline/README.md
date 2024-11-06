@@ -11,5 +11,5 @@
     - Monitor the job execution and logs from the console.
     - Example Script Arguments
         - JOB_NAME: Name of the AWS Glue job.
-        - DATA_URL: S3 path to the credit card fraud dataset (e.g., s3://your-bucket/path/to/creditcard.csv).
-        - MODEL_SAVE_PATH: S3 path where the model should be saved (e.g., s3://your-bucket/path/to/model).
+        - DATA_URL: S3 path to the credit card fraud dataset (e.g., s3://fraud-detection-project-bucket/path/to/creditcard.csv).
+        - MODEL_SAVE_PATH: S3 path where the model should be saved (e.g., s3://fraud-detection-project-bucket/path/to/model).
